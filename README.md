@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I'm Muhannad!
-🔭 I’m a student at Prince Sattam University<br>👯 I Like to do projects and code in my free time<br>🤝 I’m looking for help with CSS lol<br>🌱 I’m currently learning JS and React <br>💬 Ask me about football and gym<br>⚡ Currently Working on CompTIA Network+
+🔭 I’m a student at PSAU <br>👯 I Like to do projects and code in my free time<br>🤝 I’m looking for help with CSS lol<br>🌱 I’m currently learning JS and React <br>💬 Ask me about football and gym<br>⚡ Currently Working on CompTIA Network+
 
 
 ## 🌐 Socials
